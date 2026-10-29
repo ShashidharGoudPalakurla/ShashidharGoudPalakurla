@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I’m a Third Year B.Tech student specializing in Artificial Intelligence and Machine Learning at Maturi Venkata Subba Rao Engineering College.<br>Passionate about Machine Learning, NLP, Deep Learning, Generative AI and CyberSecurity, I enjoy building AI-powered applications, automation tools, and security systems.<br>I’m proficient in  Python , SQL, C, Java(Basics) and have hands-on experience with AI Agents, LLMs, Vision Models,Gen AI and CyberSecurity Technologies.
+I’m a Fourth Year B.Tech student specializing in Artificial Intelligence and Machine Learning at Maturi Venkata Subba Rao Engineering College.<br>Passionate about Machine Learning, NLP, Deep Learning, Generative AI and CyberSecurity, I enjoy building AI-powered applications, automation tools, and security systems.<br>I’m proficient in  Python , SQL, C, Java(Basics) and have hands-on experience with AI Agents, LLMs, Vision Models,Gen AI and CyberSecurity Technologies.
 
 
 ## 🌐 Socials:
